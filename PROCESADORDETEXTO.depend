@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1604367066 source:c:\trabajo\universidad\isc\procesadordetexto\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
